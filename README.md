@@ -24,7 +24,7 @@ This was a collaborative project between me and my classmate. We divided tasks i
 
 ## Screenshots
 
-*See the repository for attached screenshots from the final report.*
+*Attached in the Full Report.*
 
 ## 📄 Full Report
 
